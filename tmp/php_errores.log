@@ -1,0 +1,9 @@
+<pre>-- ERROR NOTICE --
+FECHA: 2014-11-07 04:18:58
+ARCHIVO: C:\xampp\htdocs\app\Class\Authorization.php
+LINEA : 17
+IP SERVIDOR: ::1
+IP USUARIO: ::1
+MENSAJE: Undefined index: logged
+-- ERROR NOTICE --
+</pre>
